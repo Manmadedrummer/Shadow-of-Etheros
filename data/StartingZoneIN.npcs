@@ -1,0 +1,17 @@
+# ARAXIA NPC dialogue links for StartingZoneIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 12,27,npc_10,SZINNPC02
+12,27,szinnpc02.npc
+#meta 16,10,npc_7,GALAGATH
+16,10,galagath.npc
+#meta 20,10,npc_6,ALWYN
+20,10,alwyn.npc
+#meta 25,26,npc_3,SZINNPC01
+25,26,szinnpc01.npc
+#meta 34,12,npc_9,ERONDER
+34,12,eronder.npc
+#meta 47,5,npc_8,UNCLE
+47,5,uncle.npc
+#meta 8,25,npc_5,SZINNPC03
+8,25,szinnpc03.npc

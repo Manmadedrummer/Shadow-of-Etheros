@@ -1,0 +1,7 @@
+# ARAXIA NPC dialogue links for EversmokeWoods1.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 45,17,npc_2,EW1NPC01
+45,17,ew1npc01.npc
+#meta 49,15,npc_1,EVERSMOKEWOODS1SIGN
+49,15,esmokewoods1sign.npc

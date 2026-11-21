@@ -1,0 +1,54 @@
+"1"
+"Welcome to Ysira's Rest. Sit,"
+"breathe. No shadow reaches this"
+"clearing. The old peace holds"
+"here, and nowhere else. You are"
+"safe a while, traveler."
+"What is this place?",2
+"Who is Etheros?",3
+"Just resting.",0
+"2"
+"Blessed ground, old as the"
+"first trees. Even Etheros, for"
+"all his hunger, cannot rot what"
+"grew before him. Rest here."
+"Ask what you will of me."
+"Who is Etheros?",3
+"",0
+"",0
+"3"
+"So you've felt him. A wizard"
+"once, who stared into death"
+"till it stared back and made"
+"him its keeper. Now he is the"
+"Corruptor - a dead god."
+"What does he want?",4
+"Can he be beaten?",5
+"",0
+"4"
+"All of Araxia, under his cold"
+"hand. Undeath, sorrow, shadow,"
+"the arcane - all his. Still he"
+"reaches for godhood. His mark:"
+"a bony hand round a glowing orb."
+"And his followers?",5
+"",0
+"",0
+"5"
+"They hide among the living,"
+"unmarked. So gather quietly"
+"your strength, your relics,"
+"your courage. Each one dims"
+"his shadow by a hair."
+"How does that help?",6
+"",0
+"",0
+"6"
+"A god is not unmade in a day,"
+"but in a thousand defiances."
+"Be one of them. This clearing"
+"will wait for you. Return when"
+"you are weary, and rest."
+"Thank you. Peace to you.",0
+"I'll return.",0
+"",0

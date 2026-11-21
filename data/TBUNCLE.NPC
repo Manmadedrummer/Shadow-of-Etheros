@@ -1,0 +1,54 @@
+"1"
+"Morning."
+"Is everything alright with you?"
+"You look like a drowned corpse,"
+"pale as the sea foam."
+" "
+"Who are you?",2
+"I'm alright.",3
+"",0
+"2"
+"What's gotten into your head?!"
+"I'm your Uncle Ronald, damn it!"
+"You sleep right through the tide and"
+"barely help with the boats anymore."
+"Get your wits together!"
+"Sorry, it's coming back to me.",3
+"I'll do better, Uncle.",3
+"",0
+"3"
+"Well, do you feel like doing some"
+"actual work today?"
+"The wind is blowing from the south"
+"and the fish are running thick."
+" "
+"I'm going to destroy Etheros.",4
+"I have to find the Lich.",4
+"",0
+"4"
+"Etheros? The Lich-Lord?"
+"By the gods, you've completely lost"
+"your mind this time, kid."
+"Stop chasing death and stick to"
+"honest work."
+"My mind is set. He must fall.",5
+"Is saving us not honest work?",5
+"",0
+"5"
+"You really mean it, don't you?"
+"Many fools have sailed out to face"
+"the dark and never returned, kid."
+"Go speak with Oren. He lives out"
+"on the island near the harbor."
+"Oren the old Tide-Watcher?",6
+"I'll find him, Uncle.",6
+"",0
+"6"
+"The man is half-mad from the tides,"
+"but he knows the reefs and the ruins"
+"better than anyone alive."
+"Watch your back, kid. Don't go"
+"doing anything I wouldn't do."
+"I'll be careful.",0
+"Goodbye, Uncle.",0
+"",0

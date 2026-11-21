@@ -1,0 +1,23 @@
+# ARAXIA NPC dialogue links for Balthix.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 2,14,npc_2,BSIGN02
+2,14,bsign02.npc
+#meta 2,18,npc_8,BNPC04
+2,18,bnpc04.npc
+#meta 13,18,npc_7,BNPC03
+13,18,bnpc03.npc
+#meta 20,28,npc_6,BNPC02
+20,28,bnpc02.npc
+#meta 28,13,npc_5,BNPC01
+28,13,bnpc01.npc
+#meta 34,19,npc_9,BNPC05
+34,19,bnpc05.npc
+#meta 38,14,npc_3,TARNISHEDCOPPERINNSIGN
+38,14,tarnishedcopperinnsign.npc
+#meta 48,14,npc_10,BNPC06
+48,14,bnpc06.npc
+#meta 49,14,npc_1,BSIGN01
+49,14,bsign01.npc
+#meta 6,24,npc_4,BWEAPONANDARMORSIGN
+6,24,bweaponandarmorsign.npc

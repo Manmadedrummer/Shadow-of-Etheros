@@ -1,0 +1,5 @@
+# ARAXIA NPC dialogue links for Lighthouse.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 29,22,npc_1,LIGHTHOUSESIGN01
+29,22,lighthousesign01.npc
